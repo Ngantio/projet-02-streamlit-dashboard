@@ -27,13 +27,11 @@ sur la période 2010-2011 avec des filtres en temps réel.
 projet-02-streamlit-dashboard/
 ├── app.py              — Application Streamlit principale
 ├── requirements.txt    — Dépendances Python
-└── data/                — Dataset UCI Online Retail (non versionné, voir source)
+└── data/                — Dataset UCI Online Retail
 ```
 
 ## Dataset
 Source : [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-> Le fichier `Online Retail.xlsx` n'est pas inclus dans ce repo (trop volumineux) —
-> télécharge-le depuis le lien ci-dessus et place-le dans un dossier `data/`.
 
 ## Auteure
 **Shanice Marvin Tiogang** · Business Analytics & Data Science · Tunis
