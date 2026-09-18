@@ -1,7 +1,7 @@
 # Projet 2 — Dashboard Interactif Retail 📊
 
 ## 🚀 Demo live
-👉 [Accéder au dashboard](#) <!-- remplace # par le lien Streamlit Cloud une fois redéployé -->
+👉 [Accéder au dashboard]https://projet-02-app-dashboard-brhdtyufmrndcagk9rlfhn.streamlit.app/
 
 ## Contexte
 Dashboard interactif construit sur le dataset UCI Online Retail.
